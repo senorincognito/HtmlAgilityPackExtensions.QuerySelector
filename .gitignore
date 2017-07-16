@@ -1,0 +1,5 @@
+src/HtmlAgilityPackExtensions.QuerySelector.Lib/obj/
+src/HtmlAgilityPackExtensions.QuerySelector.Lib/bin/
+src/HtmlAgilityPackExtensions.QuerySelector.Lib.Tests/obj/
+src/HtmlAgilityPackExtensions.QuerySelector.Lib.Tests/bin/
+src/.vs/
